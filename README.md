@@ -11,6 +11,21 @@ para instalar Spotify premium: [Spot-X-Bash](https://github.com/SpotX-Official/S
 
 ``` bash <(curl -sSL https://spotx-official.github.io/run.sh) ``` 
 
+# Vídeo
+Para instalar Davinci Resolve Studio 19:
+(instalar normalmente y aplicar el siguiente comando)
+
+``` sudo /usr/bin/perl -pi -e 's/\x74\x11\xe8\x21\x23\x00\x00/\xeb\x11\xe8\x21\x23\x00\x00/g' /opt/resolve/bin/resolve ```
+
+Para arreglar el error con las librerías:
+```
+cd /opt/resolve/libs
+sudo mkdir disabled-libraries
+sudo mv libglib* disabled-libraries
+sudo mv libgio* disabled-libraries
+sudo mv libgmodule* disabled-libraries 
+```
+
 # Escritorios 
 ## Hyprland
 Mis favoritos: [Illogical Impulse](https://github.com/end-4/dots-hyprland), 
