@@ -7,7 +7,7 @@ Para meterle Pluggins a Discord: [Vencord](https://vencord.dev/),
 ``` sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)" ``` 
 
 # Música
-[Spot-X-Bash](https://github.com/SpotX-Official/SpotX-Bash), para instalar Spotify premium.
+para instalar Spotify premium: [Spot-X-Bash](https://github.com/SpotX-Official/SpotX-Bash), 
 
 ``` bash <(curl -sSL https://spotx-official.github.io/run.sh) ``` 
 
