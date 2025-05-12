@@ -8,6 +8,13 @@ Colección de Scripts Útiles para Arch y derivadas.
 
 # Escritorios 
 ## Hyprland
-[Illogical Impulse](https://github.com/end-4/dots-hyprland), Mis favoritos
+Mis favoritos: [Illogical Impulse](https://github.com/end-4/dots-hyprland), 
 
 ``` bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh") ```
+
+Muy comodos de usar con teclado: [Hyde](https://github.com/Hyde-project/hyde), 
+
+``` pacman -S --needed git base-devel
+git clone --depth 1 https://github.com/HyDE-Project/HyDE ~/HyDE
+cd ~/HyDE/Scripts
+./install.sh  ```
