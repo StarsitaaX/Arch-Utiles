@@ -1,6 +1,11 @@
 # Arch-Utiles
 Colección de Scripts Útiles para Arch y derivadas.
 
+# Redes Sociales
+Para meterle Pluggins a Discord: [Vencord](https://vencord.dev/),
+
+``` sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)" ``` 
+
 # Música
 [Spot-X-Bash](https://github.com/SpotX-Official/SpotX-Bash), para instalar Spotify premium.
 
