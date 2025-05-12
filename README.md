@@ -14,7 +14,9 @@ Mis favoritos: [Illogical Impulse](https://github.com/end-4/dots-hyprland),
 
 Muy comodos de usar con teclado: [Hyde](https://github.com/Hyde-project/hyde), 
 
-``` pacman -S --needed git base-devel
+ ``` pacman -S --needed git base-devel
 git clone --depth 1 https://github.com/HyDE-Project/HyDE ~/HyDE
 cd ~/HyDE/Scripts
-./install.sh  ```
+./install.sh ```
+
+
